@@ -1,8 +1,8 @@
-.centeredform {
-  margin-left: 100px;
-}
 .box {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.match_viewport {
+  max-height: max-content;
 }
